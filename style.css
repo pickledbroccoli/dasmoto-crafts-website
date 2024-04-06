@@ -3,7 +3,8 @@
     font-size: 100px;
     font-weight: bold;
     color: khaki;
-    text-align: center
+    text-align: center;
+    background-image: url(images/pattern.jpeg);
 }
 
 .sale-item h2{
